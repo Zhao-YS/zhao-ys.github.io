@@ -22,9 +22,9 @@ repository               : "https://github.com/Zhao-YS/zhao-ys.github.io/"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yusong Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "B.S. at Shanghai Jiao Tong University // prospective CS PhD applicant"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
