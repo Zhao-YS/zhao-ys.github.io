@@ -13,5 +13,5 @@ I'm Yusong Zhao(赵 昱淞), an AI researcher with a strong passion for leveragi
 
 CV
 ------
-My CV can be found from here: [CV](	
+My CV can be found here: [CV](	
 http://zhao-ys.github.io/files/Yusong_Zhao_Resume_draft.pdf)
