@@ -18,4 +18,4 @@ I have those publications:
 
 CV
 ------
-My CV can be downloaded from here: [CV](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
+My CV can be downloaded from here: [CV](https://https://zhao-ys.github.io/files/Yusong_Zhao_Resume_draft.pdf)
