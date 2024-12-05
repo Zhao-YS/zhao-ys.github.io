@@ -18,5 +18,5 @@ I have those publications:
 
 CV
 ------
-My CV can be downloaded from here: [CV](	
+My CV can be found from here: [CV](	
 http://zhao-ys.github.io/files/Yusong_Zhao_Resume_draft.pdf)
