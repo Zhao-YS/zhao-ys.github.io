@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-About me 
-======
-I'm Yusong Zhao
+
+I'm Yusong Zhao(赵 昱淞), 
 
 
 Publications
@@ -19,4 +18,4 @@ I have those publications:
 
 CV
 ------
-The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from)
+My CV can be downloaded from here: [CV](https://mmistakes.github.io/minimal-mistakes/docs/configuration/)
