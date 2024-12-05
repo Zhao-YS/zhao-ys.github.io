@@ -15,3 +15,11 @@ CV
 ------
 My CV can be found here: [CV](	
 http://zhao-ys.github.io/files/Yusong_Zhao_Resume_draft.pdf)
+
+Publications
+------
+1. **Yusong Zhao**, Edgar Y. Walker, Hao Wang, Lu Mi. "Structured Visual Representation Landscape: Generating Preferred Images to Modulate Neuronal Activations in Biological and Artificial Neural Networks." *Submitted to CVPR 2025*. [Under Review](https://openreview.net/forum?id=RivxS3Mhox).
+
+2. Wenyuan Wang, **Yusong Zhao**, Zihao Xu, et al. "PRUC & Play: Probabilistic Residual User Clustering for Recommender Systems." *Submitted to ICLR 2025*. [Under Review](https://openreview.net/forum?id=9XXBsLWMF3).
+
+3. Qiuying Dai, Yanyi Chu, Zhiqi Li, **Yusong Zhao**, et al. "MDA-CF: Predicting MiRNA-Disease Associations Based on a Cascade Forest Model by Fusing Multi-Source Information." *Computers in Biology and Medicine* 136:104706 (2021). [DOI:10.1016/j.compbiomed.2021.104706](https://doi.org/10.1016/j.compbiomed.2021.104706).
