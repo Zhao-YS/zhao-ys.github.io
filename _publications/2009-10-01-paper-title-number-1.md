@@ -1,7 +1,7 @@
 ---
 title: "Structured Visual Representation Landscape: Generating Preferred Images to Modulate Neuronal Activations in Biological and Artificial Neural Networks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-structured-visual-representation
 excerpt: "This work proposes a structured visual representation landscape to generate preferred images and modulate neuronal activations."
 date: 2025-01-01
