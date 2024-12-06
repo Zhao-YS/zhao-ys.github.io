@@ -1,7 +1,7 @@
 ---
 title: "PRUC & Play: Probabilistic Residual User Clustering for Recommender Systems"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-pruc-play
 excerpt: "This paper introduces PRUC, a Bayesian framework that improves recommender systems through residual user clustering."
 date: 2025-01-01
