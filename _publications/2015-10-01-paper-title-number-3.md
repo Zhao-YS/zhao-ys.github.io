@@ -1,7 +1,7 @@
 ---
 title: "MDA-CF: Predicting MiRNA-Disease Associations Based on a Cascade Forest Model by Fusing Multi-Source Information"
 collection: publications
-category: journal
+category: journals
 permalink: /publication/2021-mda-cf
 excerpt: "This study proposes MDA-CF, a cascade forest model for predicting miRNA-disease associations by integrating multi-source information."
 date: 2021-09-01
